@@ -16,8 +16,8 @@
       year: 2017
       description:
             - title: Mentor.
-          contents:
-            - John R Speakman.            
+              contents:
+                  - John R Speakman.            
     
 - title: Experience
   type: time_table
