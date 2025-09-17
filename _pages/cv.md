@@ -18,4 +18,4 @@ toc:
 
 ## Selected Publications
 
-{% bibliography --query "@*[selected=true]" %}
+{% bibliography %}
