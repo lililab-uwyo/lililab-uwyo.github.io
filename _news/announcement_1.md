@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-08-19 01:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+**2025**
+Aug: **Li Li lab** starts at University of Wyoming!
