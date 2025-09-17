@@ -6,21 +6,31 @@
     "email": "lli18@uwyo.edu",
     "phone": "",
     "url": "https://lililab-uwyo.github.io/",
-    "summary": "",
+    "summary": "1000 E. University Ave, Biological Science Building, Room 204, Laramie, WY 82071",
     "location": {
       "address": "1000 E. University Ave, Biological Science Building, Room 204",
       "postalCode": "82071",
-      "city": "Laramie",
-      "countryCode": "US",
-      "region": "Wyoming"
-    },
+      "city": "Laramie",     
+      "region": "Wyoming"，
+      "countryCode": "US"
+                },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "LiLi_Phd2017",
-        "url": "https://x.com/LiLi_Phd2017"
-      }
-    ]
+                {
+                 "network": "twitter",
+                 "username": "LiLi_Phd2017",
+                 "url": "https://x.com/LiLi_Phd2017"
+                },
+                {
+                 "network": "linkedin",
+                 "username": "lili2019",
+                "url": "https://www.linkedin.com/in/lili2019/"
+                },
+                {
+                "network": "google-scholar",
+                "username": "68yepmkAAAAJ",
+                "url": "https://scholar.google.com/citations?user=68yepmkAAAAJ"
+                }
+]
   },
   "work": [
     {
