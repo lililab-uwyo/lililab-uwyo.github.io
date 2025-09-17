@@ -135,39 +135,39 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-',
-        title: '',
+        id: 'social-email',
+        title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("mailto:%6C%6C%69%31%38@%75%77%79%6F.%65%64%75", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://www.linkedin.com/in/lili2019", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://orcid.org/0000-0002-8173-7367", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://scholar.google.com/citations?user=68yepmkAAAAJ", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://twitter.com/LiLi_Phd2017", "_blank");
         },
       },{
       id: 'light-theme',
