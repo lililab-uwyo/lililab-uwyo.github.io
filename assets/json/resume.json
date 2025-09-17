@@ -47,7 +47,7 @@
       "url": "",
       "startDate": "2018-10-01",
       "endDate": "2024-08-31",
-      "summary": "",
+      "summary": Mentor: Chen Liu and Joel Elmquist"",
       "highlights": []
     }
   ],
@@ -56,7 +56,7 @@
       "institution": "Institute of Genetics and Developmental Biology, Chinese Academy of Sciences",
       "location": "Beijing, China",
       "url": "http://english.genetics.cas.cn/",
-      "area": "Cell Biology",
+      "area": "Mentor: John R Speakman",
       "studyType": "PhD",
       "startDate": "2010-09-01",
       "endDate": "2017-07-01",
@@ -68,14 +68,14 @@
       "title": "Career Development Award",
       "date": "2024-09-01",
       "awarder": "American Heart Association",
-      "url": "https://doi.org/10.58275/AHA.24CDA1257999.pc.gr.193644/",
+      "url": "https://doi.org/10.58275/AHA.24CDA1257999.pc.gr.193644",
       "summary": "Serotonin (5-HT) receptor signaling in gut-brain communication."
     },
     {
       "title": "Postdoctoral Fellowship",
       "date": "2023-01-01",
       "awarder": "American Heart Association",
-      "url": "https://doi.org/10.58275/AHA.23POST1019715.pc.gr.161276/",
+      "url": "https://doi.org/10.58275/AHA.23POST1019715.pc.gr.161276",
       "summary": "Investigating the mechanisms that underlie the antipsychotic drugs' effect on MC4R function."
     }
   ],
@@ -98,7 +98,7 @@
       "name": "Sample Enrichment for Single Nucleus Sequencing Using Concanavalin A (ConA)-conjugated Magnetic Beads",
       "publisher": "STAR Protocols",
       "releaseDate": "2023-09-22",
-      "url": "",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666166723005622",
       "summary": "Li Li*#, Baijie Xu*, Chen Liu#."
     },
     {
