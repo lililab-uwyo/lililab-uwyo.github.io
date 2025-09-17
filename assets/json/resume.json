@@ -28,10 +28,10 @@
       "position": "Assistant Professor",
       "url": "",
       "startDate": "2025-08-19",
-      "endDate": "Now",
+      "endDate": "",
       "summary": "",
       "highlights": []
-    }, 
+    }
     {
       "name": "University of Texas Southwestern Medical Center",
       "position": "Instructor",
@@ -40,7 +40,7 @@
       "endDate": "2025-08-15",
       "summary": "",
       "highlights": []
-    },
+    }
      {
       "name": "University of Texas Southwestern Medical Center",
       "position": "Postdoctoral Fellow",
@@ -49,7 +49,7 @@
       "endDate": "2024-08-31",
       "summary": "",
       "highlights": [] 
-    },
+    }
   ],
     "education": [
     {
@@ -159,7 +159,7 @@
       "keywords": [
         "Obesity",
         "Energy Balance",
-        "Thermogenesis",
+        "Thermogenesis"
                   ]
     },
     {
@@ -168,7 +168,7 @@
       "keywords": [
         "Eating behavior",
         "Hypothalamus",
-        "Body-Brain Communications",
+        "Body-Brain Communications"
                   ]
     },
     {
@@ -176,7 +176,7 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Single-cell RNA sequencing",
-        "spatial transcriptome sequencing",
+        "spatial transcriptome sequencing"
                           ]
     }
   ]
