@@ -57,11 +57,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-2025-aug-li-li-lab-starts-at-university-of-wyoming",
           title: '2025 Aug: Li Li lab starts at University of Wyoming!',
           description: "",
