@@ -135,32 +135,39 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
+        id: 'social-',
+        title: '',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6C%6C%69%31%38@%75%77%79%6F.%65%64%75", "_blank");
+          window.open("", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
+        id: 'social-',
+        title: '',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0002-8173-7367", "_blank");
+          window.open("", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-',
+        title: '',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=68yepmkAAAAJ", "_blank");
+          window.open("", "_blank");
         },
       },{
-        id: 'social-x',
-        title: 'X',
+        id: 'social-',
+        title: '',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/LiLi_Phd2017", "_blank");
+          window.open("", "_blank");
+        },
+      },{
+        id: 'social-',
+        title: '',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
