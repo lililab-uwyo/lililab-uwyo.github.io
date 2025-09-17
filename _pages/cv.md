@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: Curriculum Vitae
 nav: true
@@ -10,15 +10,12 @@ toc:
   sidebar: left
 ---
 
-<!-- 这里调用 resume.json 自动渲染 CV -->
-{% include cv-basics.html %}
-{% include cv-work.html %}
-{% include cv-education.html %}
-{% include cv-awards.html %}
-
----
+<p style="text-align:center;margin:1rem 0">
+  <a class="btn btn-outline-primary" href="{{ '/assets/pdf/CV-LiLi-20250909.pdf' | relative_url }}" target="_blank" rel="noopener">
+    📄 Open CV (PDF)
+  </a>
+</p>
 
 ## Selected Publications
 
-<!-- 这里调用 papers.bib 里标记 selected=true 的论文 -->
-{% bibliography --query @*[selected=true] %}
+{% bibliography --query "@*[selected=true]" %}
