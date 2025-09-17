@@ -10,7 +10,7 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-# email: lli18@uwyo.edu # your email address
+email: lli18@uwyo.edu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -24,17 +24,17 @@
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: lili2019 # your LinkedIn user name
+linkedin_username: lili2019 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: 0000-0002-8173-7367 # your ORCID ID
+orcid_id: 0000-0002-8173-7367 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
-# scholar_userid: 68yepmkAAAAJ # your Google Scholar ID
+scholar_userid: 68yepmkAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -47,26 +47,7 @@
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: LiLi_Phd2017 # your X handle
+x_username: LiLi_Phd2017 # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-- name: Email
-  icon: fas fa-envelope
-  url: mailto:lli18@uwyo.edu
-
-- name: LinkedIn
-  icon: fab fa-linkedin
-  url: https://www.linkedin.com/in/lili2019
-
-- name: ORCID
-  icon: ai ai-orcid
-  url: https://orcid.org/0000-0002-8173-7367
-
-- name: Google Scholar
-  icon: ai ai-google-scholar
-  url: https://scholar.google.com/citations?user=68yepmkAAAAJ
-
-- name: X
-  icon: fab fa-x-twitter
-  url: https://x.com/LiLi_Phd2017
 
