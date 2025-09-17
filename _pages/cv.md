@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cv
 permalink: /cv/
 title: Curriculum Vitae
 nav: true
@@ -10,10 +10,15 @@ toc:
   sidebar: left
 ---
 
-# Curriculum Vitae
+<!-- 这里调用 resume.json 自动渲染 CV -->
+{% include cv-basics.html %}
+{% include cv-work.html %}
+{% include cv-education.html %}
+{% include cv-awards.html %}
 
-{% include cv.html %}
+---
 
 ## Selected Publications
 
+<!-- 这里调用 papers.bib 里标记 selected=true 的论文 -->
 {% bibliography --query @*[selected=true] %}
