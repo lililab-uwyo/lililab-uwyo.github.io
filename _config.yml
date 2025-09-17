@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Li Li Lab, University of Wyoming # the website title (if blank, full name will be used instead)
+title: Li Li Lab # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
 last_name:
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email: lli18@uwyo.edu (Department of Zoology and Physiology, University of Wyoming)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -198,6 +198,7 @@ exclude:
   - _pages/repositories.md
   - _pages/dropdown.md
   - _pages/projects.md
+  - _pages/search.md
 keep_files:
   - CNAME
   - .nojekyll
