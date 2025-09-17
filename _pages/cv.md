@@ -2,6 +2,8 @@
 layout: cv
 permalink: /cv/
 title: Curriculum Vitae
+selected_papers: true
+social: true
 nav: true
 nav_order: 5
 cv_pdf: CV-LiLi-20250909.pdf # you can also use external links here
