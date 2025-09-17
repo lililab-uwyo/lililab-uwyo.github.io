@@ -11,8 +11,8 @@ toc:
 ---
 
 <p style="text-align:center;margin:1rem 0">
-  <a class="btn btn-outline-primary" href="{{ '/assets/pdf/CV-LiLi-20250909.pdf' | relative_url }}" target="_blank" rel="noopener">
-    📄 Open CV (PDF)
+  <a class="btn btn-outline-primary" href="/assets/pdf/CV-LiLi-20250909.pdf" target="_blank" rel="noopener">
+  📄 Open CV (PDF)
   </a>
 </p>
 
