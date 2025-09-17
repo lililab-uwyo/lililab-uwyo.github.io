@@ -1,34 +1,36 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor, University of Wyoming
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: "" # 去掉头像
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Dept. of Zoology & Physiology</p>
+    <p>University of Wyoming</p>
+    <p>Laramie, WY 82071</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an **Assistant Professor** in the Department of Zoology and Physiology and the Sensory Biology Center at the University of Wyoming.  
+My research focuses on the **neural control of metabolism**, with particular interest in **gut–brain communication and serotonin (5-HT) signaling** that regulate appetite and energy balance.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my postdoctoral training at the **University of Texas Southwestern Medical Center**, I made a series of discoveries that advanced our understanding of how the brain regulates energy balance and how therapeutic drugs can inadvertently alter these pathways.  
+I demonstrated that the antipsychotic drugs **risperidone** and **olanzapine** act directly on **hypothalamic melanocortin-4 receptors (MC4R)** to drive weight gain (*Journal of Experimental Medicine*, 2021). I further identified an **unexpected appetite-suppressing effect** of antimigraine **triptans**, mediated by **serotonin 1B receptors (Htr1b)**, and revealed that **Htr1b expression in NPY/AgRP neurons** underlies their hypophagic effects through a defined **Htr1b^AgRP → PVH circuit** (*Journal of Experimental Medicine*, 2022). In addition, I developed a **sample enrichment method using ConA-conjugated magnetic beads** to enhance the quality of **single-nucleus sequencing**, overcoming prior technical limitations (*STAR Protocols*, 2023).  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My long-term goal is to establish a research program that identifies **novel druggable targets in circumventricular organ neurons** and leverages these discoveries to develop new therapeutic strategies for metabolic syndrome.  
+
+Selected publications and further details can be found on my [Publications](/publications/) page.
