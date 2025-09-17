@@ -98,3 +98,74 @@
       "name": "Sample Enrichment for Single Nucleus Sequencing Using Concanavalin A (ConA)-conjugated Magnetic Beads",
       "publisher": "STAR Protocols",
       "releaseDate": "2023-09-22",
+      "url": "",
+      "summary": "Li Li*#, Baijie Xu*, Chen Liu#."
+    },
+    {
+      "name": "Delineating a serotonin 1B receptor circuit for appetite suppression in mice",
+      "publisher": "The Journal of Experimental Medicine",
+      "releaseDate": "2022-08-01",
+      "url": "https://doi.org/10.1084/jem.20212307",
+      "summary": "Li Li*, Steven C Wyler, Luis A León-Mercado, Baijie Xu, Youjin Oh, Xiameng Chen, Rong Wan, Amanda G Arnold, Lin Jia, Guanlin Wang, Katherine Nautiyal, René Hen, Jong-Woo Sohn, Chen Liu#."
+    },
+    {
+      "name": "The atypical antipsychotic risperidone targets hypothalamic melanocortin 4 receptors to cause weight gain",
+      "publisher": "The Journal of Experimental Medicine",
+      "releaseDate": "2021-07-05",
+      "url": "https://doi.org/10.1084/jem.20202484",
+      "summary": "Li Li*, Eun-Seon Yoo*, Xiujuan Li*, Steven C Wyler, Xiameng Chen, Rong Wan, Amanda G Arnold, Shari G Birnbaum, Lin Jia, Jong-Woo Sohn, Chen Liu#."
+    },
+    {
+      "name": "Brown adipose tissue is the key depot for glucose clearance in microbiota depleted mice",
+      "publisher": "Nature Communications",
+      "releaseDate": "2021-08-05",
+      "url": "https://doi.org/10.1038/s41467-021-24659-8",
+      "summary": "Min Li*, Li Li*, Baoguo Li*, Catherine Hambly, Guanlin Wang, Yingga Wu, Zengguang Jin, Anyongqi Wang, Chaoqun Niu, Christian Wolfrum, John R Speakman#."
+    },
+    {
+      "name": "Switching on the furnace: regulation of heat production in brown adipose tissue",
+      "publisher": "Molecular Aspects of Medicine",
+      "releaseDate": "2019-08-05",
+      "url": "https://doi.org/10.1016/j.mam.2019.07.005",
+      "summary": "Li Li*, Baoguo Li*, Min Li*, John R Speakman#."
+    },
+    {
+      "name": "Microbiota depletion impairs thermogenesis of brown adipose tissue and browning of white adipose tissue",
+      "publisher": "Cell Reports",
+      "releaseDate": "2019-03-05",
+      "url": "https://doi.org/10.1016/j.celrep.2019.02.015",
+      "summary": "Baoguo Li*, Li Li*, Min Li*, Sin Man Lam*, Guanlin Wang, Yingga Wu, Hanlin Zhang, Chaoqun Niu, Xueying Zhang, Xue Liu, Catherine Hambly, Wanzhu Jin, Guanghou Shui, John R Speakman#."
+    },
+    {
+      "name": "Dietary fat, but not protein or carbohydrate, regulates energy intake and causes adiposity in mice",
+      "publisher": "Cell Metabolism",
+      "releaseDate": "2018-07-12",
+      "url": "https://doi.org/10.1016/j.cmet.2018.06.010",
+      "summary": "Sumei Hu*, LU Wang*, Dengbao Yang*, Li Li*, Jacques Togo*, Yingga Wu*, Quansheng Liu, Baoguo Li, Min Li, Guanlin Wang, Xueying Zhang, Chaoqun Niu, Jianbo Li, Yanchao Xu, Elspeth Couper, Andrew Whittington-Davies, Mohsen Mazidi, Lijuan Luo, Shengnan Wang, Alex Douglas, John R Speakman#."
+    },
+    {
+      "name": "Brown adipocytes can display a mammary basal myoepithelial cell phenotype in vivo",
+      "publisher": "Molecular Metabolism",
+      "releaseDate": "2017-08-05",
+      "url": "https://doi.org/10.1016/j.molmet.2017.07.015",
+      "summary": "Li Li*, Baoguo Li*, Min Li, Chaoqun Niu, Guanlin Wang, Ting Li, Elżbieta Król, Wanzhu Jin, John R Speakman#."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Physiology",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Obesity", "Energy Balance", "Thermogenesis"]
+    },
+    {
+      "name": "Neuroscience",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Eating behavior", "Hypothalamus", "Body-Brain Communications"]
+    },
+    {
+      "name": "Bioinformatics",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Single-cell RNA sequencing", "spatial transcriptome sequencing"]
+    }
+  ]
+}
