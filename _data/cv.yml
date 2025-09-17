@@ -15,9 +15,7 @@
       institution: Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, China
       year: 2017
       description:
-            - title: Mentor.
-              contents:
-                  - John R Speakman.            
+        - Mentor: John R Speakman       
     
 - title: Experience
   type: time_table
