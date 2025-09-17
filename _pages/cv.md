@@ -11,3 +11,4 @@ description: Click the PDF icon to view my latest CV.     # This is a descriptio
 toc:
   sidebar: left
 ---
+{% bibliography --query @*[selected=true] %}
