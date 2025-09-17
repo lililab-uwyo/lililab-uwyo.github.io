@@ -2,9 +2,9 @@
   type: map
   contents:
     - name: Full Name
-      value: Li Li 
+      value: Li Li
     - name: Date of Birth
-      value: 22th June 1988
+      value: 22 June 1988
     - name: Languages
       value: English, Mandarin
 
@@ -15,22 +15,22 @@
       institution: Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, China
       year: 2017
       description:
-        - "Mentor: John R Speakman"       
-    
+        - "Mentor: John R. Speakman"
+
 - title: Experience
   type: time_table
   contents:
     - title: Assistant Professor
       institution: University of Wyoming
-      year: 2025 - Now
-      
+      year: "2025 - Now"
+
     - title: Instructor
       institution: University of Texas Southwestern Medical Center
-      year: 2024 - 2025
-      
+      year: "2024 - 2025"
+
     - title: Postdoctoral Fellow
       institution: University of Texas Southwestern Medical Center
-      year: 2018 - 2024
+      year: "2018 - 2024"
 
 - title: Honors and Awards
   type: time_table
