@@ -6,7 +6,7 @@ subtitle: Assistant Professor, University of Wyoming
 
 profile:
   align: right
-  image: "" # 去掉头像
+  #image: "" # 去掉头像
   image_circular: false
   more_info: >
     <p>Dept. of Zoology & Physiology</p>
