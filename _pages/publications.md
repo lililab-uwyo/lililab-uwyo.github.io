@@ -11,12 +11,12 @@ nav_order: 4
 ## Selected Publications
 ---
 
-{% bibliography --query @*[selected=true] --group_by year --group_order descending %}
+{% bibliography --query @*[selected=true] --group_by none --sort_by year --order descending %}
 
 ## Other Publications
 ---
 
-{% bibliography --query @*[selected!=true] --group_by year --group_order descending %}
+{% bibliography --query @*[selected!=true] --group_by none --sort_by year --order descending %}
 
 ---
 
