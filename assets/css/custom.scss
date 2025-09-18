@@ -1,9 +1,10 @@
-// assets/css/custom.scss
-// 自定义 Publications 页面按钮样式
+---
+---
 
+/* 自定义 Publications 页面按钮样式 */
 .publications a.btn.btn-sm {
-  border: 1px solid #ccc;        // 灰色描边
-  border-radius: 4px;            // 圆角
+  border: 1px solid #ccc;
+  border-radius: 4px;
   padding: 2px 6px;
   margin-right: 4px;
   font-size: 0.85rem;
@@ -13,7 +14,7 @@
 }
 
 .publications a.btn.btn-sm:hover {
-  background-color: #f8f9fa;     // hover 时背景变浅灰
-  border-color: #999;            // hover 时边框加深
+  background-color: #f8f9fa;
+  border-color: #999;
   text-decoration: none;
 }
