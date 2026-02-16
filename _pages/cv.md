@@ -4,7 +4,7 @@ permalink: /cv/
 title: Curriculum Vitae
 nav: true
 nav_order: 5
-cv_pdf: CV-LiLi-20251008.pdf
+cv_pdf: CV-LiLi-20260216.pdf
 description: Click the PDF icon to view my latest CV.
 toc:
   sidebar: left
